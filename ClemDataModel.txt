@@ -1,0 +1,20 @@
+The following data model will be designed to hold information relating to the holiday Home bookings and is defined as follows:-
+
+Entities
+    Clients
+    Homes
+    Bookings
+    Home Facilities
+    Price Bands
+    Locations
+
+The Entities are related as follows:
+
+    A Customer can Book One/more homes
+    A Home may have One/more Bookings made for it
+    A Location may contain zero, One/more Homes
+    A Cottage may have zero, One/more Facilities
+    A Facility may be associated with zero, One/more Cottages
+    A Home can have various prices associated with it 
+    A range/rate can have zero, One/more homes
+
