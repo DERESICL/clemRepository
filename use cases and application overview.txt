@@ -1,0 +1,13 @@
+
+
+
+
+
+In real world situation, finding use cases would include many techniques such as, to mention a few, interviewing business users to elicit their requirements and/or studying documentation, and/or analysing problem/requirement statement.
+In the above problem description we deduced a set of use cases, which are:
+1.     	Welcome.2.     	Accessing the home3.     	Searching the homes4.     	Place a booking Use-case model    Use case Diagram
+
+Use case DescriptionswelomeWhen a prospective customer wishes visits the sites.  The systems takes the user to the welcome page where the user can search of type homes sand also place an order.  If the user entered the wrong password or username is entered the application redirect back to the log on page until the right login details are entered.   Searching the Holiday HomesA registered member can search for suitable products if the product is available. The application displays the names of the product by clicking or selecting the name of the product.  The application displays the product information including the price. Book a HomeWhen visitors/member has found a suitable home he/she can proceed by clicking the order button. The system calculates the number of days being and proceeds for the user to enter his/her credit card details after the credit card details are entered the system asked the registered member to confirm order.  The application then generates a placed order details.  Application Overview: The application is a Holiday Home, which will provide users with the ability to do the following: ·         Browse various holiday homes·         Select a home to view more details·         Add items to a shopping cart.·         Proceed to the store checkout or placing an order
+
+
+
